@@ -1,0 +1,13 @@
+Basketball Free throw simulator 
+Authors: Jacob Miller and Kalib Lindsey
+Files:
+JoglEventListener.java
+	-primary implementation of graphics
+Sounds.java
+	-sound effects
+Basketball.java
+	-tracking movement of ball as well as collisions
+	
+EntryClass.java
+	-contains main function
+

@@ -1,0 +1,10 @@
+Jacob Miller
+Classes for transformations of object in OpenGL using matrix multiplication
+Folder assignment2
+Two java files: assignment2/src/helloOpenGL/HelloOpenGL.java and 
+assignment2/src/helloOpenGL/JoglEventListener.java
+Details:
+main function is in helloOpenGL.java
+transformations are performed in JoglEventListener.java
+Uses:
+JOGL library
